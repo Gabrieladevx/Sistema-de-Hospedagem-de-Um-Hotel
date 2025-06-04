@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Documentos\Sistema de Hospedagem de um Hotel\bin\Debug\net9.0\Sistema de Hospedagem de um Hotel.exe
+C:\Users\gabri\OneDrive\Documentos\Sistema de Hospedagem de um Hotel\bin\Debug\net9.0\Sistema de Hospedagem de um Hotel.deps.json
+C:\Users\gabri\OneDrive\Documentos\Sistema de Hospedagem de um Hotel\bin\Debug\net9.0\Sistema de Hospedagem de um Hotel.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\Sistema de Hospedagem de um Hotel\bin\Debug\net9.0\Sistema de Hospedagem de um Hotel.dll
+C:\Users\gabri\OneDrive\Documentos\Sistema de Hospedagem de um Hotel\bin\Debug\net9.0\Sistema de Hospedagem de um Hotel.pdb
+C:\Users\gabri\OneDrive\Documentos\Sistema de Hospedagem de um Hotel\obj\Debug\net9.0\Sistema de Hospedagem de um Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\Sistema de Hospedagem de um Hotel\obj\Debug\net9.0\Sistema de Hospedagem de um Hotel.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Sistema de Hospedagem de um Hotel\obj\Debug\net9.0\Sistema de Hospedagem de um Hotel.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\Sistema de Hospedagem de um Hotel\obj\Debug\net9.0\Sistema de Hospedagem de um Hotel.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Sistema de Hospedagem de um Hotel\obj\Debug\net9.0\Sistema de Hospedagem de um Hotel.dll
+C:\Users\gabri\OneDrive\Documentos\Sistema de Hospedagem de um Hotel\obj\Debug\net9.0\refint\Sistema de Hospedagem de um Hotel.dll
+C:\Users\gabri\OneDrive\Documentos\Sistema de Hospedagem de um Hotel\obj\Debug\net9.0\Sistema de Hospedagem de um Hotel.pdb
+C:\Users\gabri\OneDrive\Documentos\Sistema de Hospedagem de um Hotel\obj\Debug\net9.0\Sistema de Hospedagem de um Hotel.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\Sistema de Hospedagem de um Hotel\obj\Debug\net9.0\ref\Sistema de Hospedagem de um Hotel.dll
